@@ -1,7 +1,10 @@
 # esp-idf-clion
 configuration and setup clion with esp-idf
 
-See also https://www.jetbrains.com/help/clion/esp-idf.html#cmake-setup
+See also:
+
+- https://www.jetbrains.com/help/clion/esp-idf.html#cmake-setup
+- https://blog.jetbrains.com/clion/2021/09/developing-for-esp32-with-clion-on-windows/
 
 ## Install and setup esp idf
 1. Create directory esp
