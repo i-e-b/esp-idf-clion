@@ -6,6 +6,14 @@ See also:
 - https://www.jetbrains.com/help/clion/esp-idf.html#cmake-setup
 - https://blog.jetbrains.com/clion/2021/09/developing-for-esp32-with-clion-on-windows/
 
+There **MUST** be a directory called `main`, with a `main.c`, containing
+
+```cpp
+extern void app_main(void)
+{
+```
+I haven't had a build work without it.
+
 ## Install and setup esp idf
 1. Create directory esp
 ```
