@@ -1,6 +1,8 @@
 # esp-idf-clion
 configuration and setup clion with esp-idf
 
+See also https://www.jetbrains.com/help/clion/esp-idf.html#cmake-setup
+
 ## Install and setup esp idf
 1. Create directory esp
 ```
